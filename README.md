@@ -1,5 +1,5 @@
 # ¡Hola! Soy Mirko Alexander Stamm 
-**Junior Backend Developer | Python • FastAPI • APIs**
+**Backend Developer | Python • FastAPI • Scalable APIs**
 
 🇵🇹 Portugal (UTC+0) · Disponible para **remoto**
 [LinkedIn](https://www.linkedin.com/in/mirko-stamm-b82980273/)
@@ -7,11 +7,13 @@
 ---
 
 ### Sobre mí
-- Junior Backend Developer enfocado en el desarrollo de **APIs escalables con Python**.
-- Experiencia práctica en proyectos reales, incluyendo un **ERP colaborativo en equipo**.
-- Stack principal: **FastAPI, PostgreSQL, Redis, WebSockets, Celery y Docker**.
-- Ganador del **Devathon 2025** (hackathon internacional de [Programación en Español](https://www.youtube.com/@programacion-es)).
-- Actualmente ampliando conocimientos en **Cloud (AWS)** y **GenAI**, y aprendiendo frontend (React/TypeScript) para mejorar la colaboración backend–frontend.
+
+- Junior Backend Developer enfocado en el desarrollo de APIs escalables con Python.
+- Experiencia práctica en proyectos reales, incluyendo un ERP colaborativo en equipo.
+- Stack principal: FastAPI, PostgreSQL, Redis, WebSockets, Celery y Docker.
+- Ganador del Devathon 2025 (hackathon internacional).
+- Actualmente ampliando conocimientos en Cloud (AWS) y GenAI, y aprendiendo React/TypeScript para mejorar la colaboración backend–frontend.
+
 ---
 
 ### Tech Stack
@@ -34,7 +36,7 @@
 
 | Proyecto | Stack | Descripción |
 |--------|-------|-----------|
-| **ERP Colaborativo** | FastAPI · PostgreSQL · Pytest | Backend para sistema ERP con módulos de inventario, facturación y administración, roles y permisos. Trabajo en equipo de 8 personas, enfocado en diseño de APIs, permisos y testing. |
+| **ERP Colaborativo** | FastAPI · PostgreSQL · Pytest | Backend para sistema ERP con módulos de inventario, facturación y administración. Diseño de APIs, roles y permisos, testing con Pytest. Trabajo en equipo de 8 personas, usando Git flow y metodologías ágiles. |
 | **API Tareas en Tiempo Real** | FastAPI · WebSockets · Redis | API colaborativa con WebSockets, chat y notificaciones en tiempo real, usando Redis para mensajería y sincronización. |
 | **Sistema de Pagos con Stripe** | FastAPI · Stripe API · Celery | Integración completa de Stripe Webhooks, suscripciones y control de acceso por plan, con procesamiento asíncrono mediante Celery. |
 
