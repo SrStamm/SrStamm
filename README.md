@@ -8,7 +8,7 @@
 
 ### Sobre mí
 
-- Junior Backend Developer enfocado en el desarrollo de APIs escalables con Python.
+- Backend Developer enfocado en el desarrollo de APIs escalables con Python.
 - Experiencia práctica en proyectos reales, incluyendo un ERP colaborativo en equipo.
 - Stack principal: FastAPI, PostgreSQL, Redis, WebSockets, Celery y Docker.
 - Ganador del Devathon 2025 (hackathon internacional).
@@ -61,4 +61,4 @@ Inglés:      ██████████░░░░░░░░░░ (Téc
 - Tecnicatura de Programación UTN - en progreso
 - Curso Full-Stack Web Developer (en progreso)
 - Mejorando inglés técnico (conversación)
-- Abierto a oportunidades como **Junior Backend Developer (remoto)**
+- Abierto a oportunidades como **Backend Developer**
