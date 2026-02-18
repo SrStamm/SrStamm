@@ -36,7 +36,7 @@
 
 | Proyecto | Stack | Descripción |
 |--------|-------|-----------|
-| **ERP Colaborativo** | FastAPI · PostgreSQL · Pytest | Backend para sistema ERP con módulos de inventario, facturación y administración. Diseño de APIs, roles y permisos, testing con Pytest. Trabajo en equipo de 8 personas, usando Git flow y metodologías ágiles. |
+| **AI Toolkit** | FastAPI · Qdrant · Ollama · Mistral · Celery | API educativa y experimental construida en FastAPI para explorar cómo diseñar sistemas backend con LLMs y RAG de forma profesional |
 | **API Tareas en Tiempo Real** | FastAPI · WebSockets · Redis | API colaborativa con WebSockets, chat y notificaciones en tiempo real, usando Redis para mensajería y sincronización. |
 | **Sistema de Pagos con Stripe** | FastAPI · Stripe API · Celery | Integración completa de Stripe Webhooks, suscripciones y control de acceso por plan, con procesamiento asíncrono mediante Celery. |
 
